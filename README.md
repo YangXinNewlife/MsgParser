@@ -10,7 +10,6 @@ Step 1 : Generate large files
 ```sh
 python gen_json.py --iters 100 -o sources/jsonfiles/100.json
 ```
-# Or
 
 ## xml
 
