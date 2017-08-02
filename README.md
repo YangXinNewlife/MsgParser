@@ -4,26 +4,27 @@ Date : 2017-08-02
  
 # How to use it
 
-Step 1 : Generate large files
+## Step 1 : Generate large files
 
-## json
+JSON
+
 ```sh
 python gen_json.py --iters 100 -o sources/jsonfiles/100.json
 ```
 
-## xml
+XML
 
 ```sh
 python gen_xml.py --iters 100 -o sources/xmlfiles/100.json
 ```
 
-Step 2 : Do Benchmarking
+## Step 2 : Do Benchmarking
 
 ```sh
 ./gradlew run
 ```
 
-You will see
+# You will see
 
 ```text
 
