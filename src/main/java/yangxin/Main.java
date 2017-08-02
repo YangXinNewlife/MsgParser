@@ -30,7 +30,7 @@ public class Main {
         // set FlinkKafkaConsumer
         DataStream<String> messageStream =  env.addSource(new FlinkKafkaConsumer010<String>(kafkaTopic, new SimpleStringSchema(), props));
 
-
+        //AdapterPaser adapterParser = new AdapterPaser(messageStream);
 
 
     }
