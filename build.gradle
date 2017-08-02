@@ -3,7 +3,6 @@ version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
 
-mainClassName = "yangxin.Main"
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
