@@ -31,6 +31,6 @@ python gen_xml.py --iters 100 -o sources/xmlfiles/100.json
 ```
 
 ## Reference
-https://dom4j.github.io/
-http://www.json.org/
-https://www.w3.org/XML/
+* https://dom4j.github.io/
+* http://www.json.org/
+* https://www.w3.org/XML/
