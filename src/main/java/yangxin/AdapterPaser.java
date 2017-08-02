@@ -19,7 +19,7 @@ public class AdapterPaser {
 
 
     public String MessageHead(DataStream<String> message){
-
+        return null;
     }
 }
 
